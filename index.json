@@ -1,0 +1,30 @@
+{
+  "repository": "Greek-Math-Simulations-with-GeoGebra",
+  "description": "A curated collection of GeoGebra-based math simulations for Greek secondary education, including algebra, geometry, statistics, and calculus.",
+  "version": "1.0",
+  "last_updated": "2025-01-01",
+
+  "categories": {
+    "Algebra": [
+      {
+        "id": "linear-functions",
+        "title": "Linear Functions Explorer",
+        "path": "Algebra/Linear-Functions/",
+        "files": {
+          "geogebra": "linear-functions.ggb",
+          "worksheet": "worksheet-linear-functions.md",
+          "teacher_guide": "teacher-guide-linear-functions.md",
+          "metadata": "metadata.json"
+        },
+        "keywords": ["GeoGebra", "Algebra", "Linear Functions", "Slope", "Intercept"],
+        "education_level": ["Gymnasium", "Lyceum"]
+      }
+    ],
+
+    "Geometry": [],
+
+    "Statistics": [],
+
+    "Calculus": []
+  }
+}
