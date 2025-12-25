@@ -1,0 +1,47 @@
+{
+  "title": "Linear Functions Explorer",
+  "topic": "Algebra",
+  "subtopic": "Linear Functions",
+  "description": "Interactive GeoGebra simulation for exploring the linear function y = ax + b. Includes dynamic sliders for parameters a and b, automatic visualization of slope, intercepts, and table of values.",
+  
+  "author": "Christos Chachoudis",
+  "institution": "Greek Secondary Education",
+  "language": "Greek",
+  "education_level": ["Gymnasium", "Lyceum"],
+  
+  "learning_objectives": [
+    "Understand the structure of the linear function y = ax + b.",
+    "Explore how the slope (a) affects the inclination of the line.",
+    "Investigate how the intercept (b) shifts the line vertically.",
+    "Connect algebraic, graphical, and tabular representations.",
+    "Identify x- and y-intercepts through exploration."
+  ],
+
+  "curriculum_alignment": {
+    "Greece": [
+      "Γυμνάσιο – Άλγεβρα: Γραμμικές συναρτήσεις και γραφικές παραστάσεις.",
+      "Α' Λυκείου – Άλγεβρα: Κλίση ευθείας, μετασχηματισμοί γραμμικών συναρτήσεων."
+    ]
+  },
+
+  "files": {
+    "geogebra_file": "linear-functions.ggb",
+    "worksheet": "worksheet-linear-functions.md",
+    "teacher_guide": "teacher-guide-linear-functions.md"
+  },
+
+  "keywords": [
+    "GeoGebra",
+    "Linear Functions",
+    "Algebra",
+    "Slope",
+    "Intercept",
+    "Greek Math",
+    "Interactive Simulation",
+    "Differentiated Instruction"
+  ],
+
+  "license": "CC BY-NC-SA 4.0",
+  "version": "1.0",
+  "last_updated": "2025-01-01"
+}
